@@ -4,7 +4,7 @@
  * print_triangle - entry point
  * Description: prints diagonals
  * @size: size of the triangle
- * Return:void
+ * Return: void
  */
 
 void print_triangle(int size)
