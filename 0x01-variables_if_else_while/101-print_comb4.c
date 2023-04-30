@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - print all possible different combinations of three digits
- * 
+ * main - print three number combination
  * Result: 0 success
  */
 
 int main(void)
 {
+
 int i = '0';
 int j = '0';
 int k = '0';
