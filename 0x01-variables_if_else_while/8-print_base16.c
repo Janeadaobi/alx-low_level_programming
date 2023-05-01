@@ -12,9 +12,9 @@ int main(void)
 {
 int d;
 char low;
-for (d = '0'; d <= '9'; d++)
+for (d = '0'; d < '10'; d++)
 {
-putchar((d % 9) + '0');
+putchar((d % 10) + '0');
 }
 for (low = 'a'; low <= 'f'; low++)
 {
