@@ -14,7 +14,7 @@ int d;
 char low;
 for (d = '0'; d <= '9'; d++)
 {
-putchar((d % 9) + '0');
+putchar((d);
 }
 for (low = 'a'; low <= 'f'; low++)
 {
